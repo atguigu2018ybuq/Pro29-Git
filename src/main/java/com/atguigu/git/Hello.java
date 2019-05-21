@@ -10,7 +10,7 @@ public class Hello {
 		System.out.println("hello git ...");
 		System.out.println("hello git ...");
 		System.out.println("hello git ...");
-		System.out.println("hello git ...");
+		System.out.println("hello git ...");// 煤球是白的
 		System.out.println("hello git ...");
 		System.out.println("hello git ...");
 		System.out.println("hello git ...");
